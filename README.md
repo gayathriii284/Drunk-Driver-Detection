@@ -11,3 +11,8 @@ Two free APIs used are:<br>
 2.Route and Directions (Rapid API) (for finding routes along with duration and distance between 10000 pairs of randomly selected pairs, provides free service for 30,000 requests/month)<br>
 </ol>
 
+Here, two learning algorithms are used to find the best locations and times for the detectors to catch maximum drunk drivers:<br>
+<ol>
+1.Genetic Algorithm
+2.Particle Swarm Optimization
+</ol>
