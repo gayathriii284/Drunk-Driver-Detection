@@ -1,5 +1,5 @@
 # Drunk-Driver-Detection
-Detects the traffic on the road and catches drunk drivers that start randomly from different locations.<br> This project uses python along with main open source libraries:<br>
+Detects the traffic on the road(June 2,3,4,5) and catches drunk drivers that start randomly from different locations.<br> This project uses python along with main open source libraries:<br>
 <ol>
 1.Folium (for plotting and visualizations on maps)<br>
 2.Geopy (to calculate distances between two points in a map etc.)<br>
